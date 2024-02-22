@@ -3,7 +3,7 @@
 <h3><u><strong><i>DexOrdi</i></strong></u> &nbsp;(AMM & DAO Based on BRC-20 and CBRC-20 Toten Standard)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/BestSilverTiger/About-Me/assets/dexordi.png">
+<img align="right" width="300px" src="[https://github.com/BestSilverTiger/About-Me/assets/dexordi.png](https://github.com/BestSilverTiger/About-Me/assets/69390291/b839eadb-d391-4342-b0b1-9df17b2f0a9d)">
 
 BRC-20 & CBRC-20 Token Exchanage and Staking Project. DexOrdi provides a seamless and intuitive trading environment that empowers users to explore the world of decentralized trading on the Bitcoin network. Your tokens are securely stored in the escrow system, only you have access to it when your staking period ends.
 
