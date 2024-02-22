@@ -24,3 +24,53 @@ UnderWorldLending Platform is an BTC Lending Platform so users can borrow BTC us
 - Github repos: 
   - Backend repo: <a href="https://github.com/BestSilverTiger/BTC-NFT-Lending-BE">UnderWorldLending-Backend</a>
   - Frontend repo: <a href="https://github.com/BestSilverTiger/BTC-NFT-Lending">UnderWorldLending-Frontend</a>
+
+<h3><u><strong><i>Yieldz Lending</i></strong></u> &nbsp;(Polygon)</h3>
+
+<hr />
+
+This is a Defi Lending project on Etheruem network. Users can provide a sustainable system and bringing predictabe and long-term yield mechanisms for Defi investors.
+<img align="right" width="300px" src="https://github.com/BestSilverTiger/About-Me/assets/89193350/14a1e11e-1d51-42d7-af75-e03b90dece79">
+
+
+Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to provide a sustainable system and bring stability and long-term solutions for Defi investors. YIELDZ is also a multifaceted Ecosystem, innovative Stablecoin, and Core Farm.
+We concentrate on investors who want to invest their assets safely and who are searching for a reliable source of income. We provided a multi-layered method to increase the predictability of Defi space
+
+- Live: <a href="https://yieldzprotocol.com/">Yieldz</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/BestSilverTiger/360-Defi-SmartContract">Yieldz-Backend</a>
+  - frontend repo: <a href="https://github.com/BestSilverTiger/Yieldz-Defi-Frontend">Yieldz-Frontend</a>
+
+
+<h3><u><strong><i>Playzelo</i></strong></u> &nbsp;(Bitcoin, Etheruem, Binance, Solana)</h3>
+<hr />
+
+This is a game project deployed on blockchain networks. Users can play games use crypto
+
+<img align="right" width="300px" src="https://github.com/BestSilverTiger/About-Me/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
+
+
+Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
+
+- Live: <a href="https://playzelo.xyz/">Playzelo</a>
+- Github repos: 
+  - Backend repo: <a href="https://github.com/BestSilverTiger/scissors/tree/master/backend">Playzelo Backend</a>
+  - Frontend repo: <a href="https://github.com/BestSilverTiger/scissors/tree/master/frontend">Playzelo-Frontend</a>
+  - Admin repo: <a href="https://github.com/BestSilverTiger/scissors/tree/master/admin">Playzelo-Admin</a>
+
+
+<h3><u><strong><i>Hydra Swap</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
+
+<img align="right" width="300px" src="https://github.com/BestSilverTiger/About-Me/assets/89193350/78a3d3a7-da63-4cd5-a011-de5c40ffe54c">
+
+HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
+
+- Live: <a href="https://hydraswap.io/">HydraSwap</a>
+- Github repos: 
+  - Backend repo: <a href="https://github.com/BestSilverTiger/hydra-Defi-BE">Hydra-Backend</a>
+  - Frontend repo: <a href="https://github.com/BestSilverTiger/hydra-Defi-FE">Hydra-Frontend</a>
+  - SmartContract repo: <a href="https://github.com/BestSilverTiger/hydra-Defi-SC">Hydra-SmartContract</a>
+  
