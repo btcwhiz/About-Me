@@ -30,7 +30,7 @@ UnderWorldLending Platform is an BTC Lending Platform so users can borrow BTC us
 <hr />
 
 This is a Defi Lending project on Etheruem network. Users can provide a sustainable system and bringing predictabe and long-term yield mechanisms for Defi investors.
-<img align="right" width="300px" src="https://github.com/BestSilverTiger/About-Me/assets/89193350/14a1e11e-1d51-42d7-af75-e03b90dece79">
+<img align="right" width="300px" src="https://github.com/BestSilverTiger/About-Me/assets/69390291/b54e4ba5-57d5-4971-a450-2e12c3e96450">
 
 
 Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to provide a sustainable system and bring stability and long-term solutions for Defi investors. YIELDZ is also a multifaceted Ecosystem, innovative Stablecoin, and Core Farm.
@@ -47,8 +47,7 @@ We concentrate on investors who want to invest their assets safely and who are s
 
 This is a game project deployed on blockchain networks. Users can play games use crypto
 
-<img align="right" width="300px" src="https://github.com/BestSilverTiger/About-Me/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
-
+<img align="right" width="300px" src="https://github.com/BestSilverTiger/About-Me/assets/69390291/5a325bfe-5117-4ae9-b746-cc6db8b866d1">
 
 Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
 
@@ -64,7 +63,7 @@ Playzelo is a game project deployed on blockchain networks. There are several ga
 
 This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
 
-<img align="right" width="300px" src="https://github.com/BestSilverTiger/About-Me/assets/89193350/78a3d3a7-da63-4cd5-a011-de5c40ffe54c">
+<img align="right" width="300px" src="https://github.com/BestSilverTiger/About-Me/assets/69390291/299216b9-72ec-42c7-ad2c-01a85563187f">
 
 HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
 
