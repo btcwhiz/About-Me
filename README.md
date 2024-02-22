@@ -1,10 +1,5 @@
 # About-Me
 
-Experienced in Blockchain development for 10+ years. Currently working as a Fullstack blockchain developer.<br/>
-
-<a href="https://github.com/BestSilverTiger/About-Me">About Me</a>
-<br/>
-
 <h3><u><strong><i>DexOrdi</i></strong></u> &nbsp;(AMM & DAO Based on BRC-20 and CBRC-20 Toten Standard)</h3>
 <hr />
 
