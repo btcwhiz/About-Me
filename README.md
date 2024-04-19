@@ -40,6 +40,31 @@ We concentrate on investors who want to invest their assets safely and who are s
   - backend repo: <a href="https://github.com/BestSilverTiger/360-Defi-SmartContract">Yieldz-Backend</a>
   - frontend repo: <a href="https://github.com/BestSilverTiger/Yieldz-Defi-Frontend">Yieldz-Frontend</a>
 
+<h3><u><strong><i>Astronaut NFT Staking -> YAKU Hub</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/222485565-17b0577f-4dc3-4e35-b1b0-033569bd19bc.png">
+
+Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨🏿‍🚀 NFT collections.
+
+- Demo: <a href="http://astronaut-nft-staking-death.vercel.app">Astronaut Staking</a>
+- Live: <a href="https://minxlabs.io/cosmicastro/staking">cosmicastro NFT Staking </a> &nbsp;Moved here: <a href="https://hub.yaku.ai/yaku/staking">Yaku Staking</a>
+  - Model 1:
+    - If you claim before 15 days, you will receive 75% and after 15 days, will receive 100%.
+      - Adventurer: 20 $coin a day
+      - Scientist: 25 $coin a day
+      - Doctor: 30 coin a day
+      - Mission Specialist: 35 $coin a day
+      - Commander: 40 $coin a day
+  - Model 2
+    - Rewards are paid daily and they are the same for all NFTS, so x $coin a day for everything
+  - Model 3
+    - 7 days x $coin, 14 days 1.5x $coin, 30 days+ 2x $coin
+- Official Links:
+  - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
+  - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
+  - Moved to this link: <a href="https://www.yaku.ai">Yaku Hub</a>
+
 <h3><u><strong><i>Playzelo</i></strong></u> &nbsp;(Bitcoin, Etheruem, Binance, Solana)</h3>
 <hr />
 
@@ -91,6 +116,10 @@ Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6
 - Live: <a href="https://dev.d3c0jk89ozv3l5.amplifyapp.com">The Hoopas</a>
 - Staking: <a href="https://lock.3pixl.com">The Hoopas Locking</a>
 
+<br />
+<br />
+<br />
+
 <h3><u><strong><i>Monopoly</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -102,6 +131,20 @@ Users must get `$Java` to play and roll the dice. And users can stake/unstake NF
 I attended this project and wrote smart contract and supported on back-end/front-end integration sides.
 
 - Live: <a href="https://www.monopoly.cafe">Monopoly</a>
+
+
+<h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166076634-5edc5fdc-ac4f-4567-83ad-271a376885c9.png">
+
+This is the traditional NFT staking project. Users stake their TAC NFTs and receive 🍌$GBA token.
+
+- Link: <a href="https://aurora-staking.vercel.app" target="_blank">TAC NFT Staking</a>
+- Live link: <a href="https://www.apearena.online">TAC Staking</a>
+  - You can stake your TAC NFT.
+  - You will receive reward as 🍌$GBA calculated by 25 days.
+- Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
 
 <h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
 <hr />
@@ -121,6 +164,10 @@ Now we are adding more features for Nanas.
 - Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
 (Current Staking is updating.... so It's down now)
 
+<br />
+<br />
+<br />
+
   <h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
@@ -132,3 +179,59 @@ Now I am working on this project and we are releasing this in Apirl.
 
 - Testnet Link: <a href="https://2contract-test.icon.fashion" target="_blank">Icon Fashion</a>
 - Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a> (password: LoveIconGirl)
+
+<h3><u><strong><i>FLWR Token Staking</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/201804913-14357891-d1cb-4147-b487-f7778c68bb36.png">
+
+Staking an SPL token "FLWR"
+
+<!-- - Link: <a href="https://flwr-staking.netlify.app/stake-coins" target="_blank">FLWR Staking</a> -->
+
+- Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
+- Live Link: <a href="https://www.solflowers.io">SOL Flowers Staking</a>
+  - number of flwr (spl-token) - 50/75/100%
+  - reward period/lock time - 4/6/12 month
+  - interest - 3%/6%/12%
+  - transaction fee - 0.1 sol
+  - penalties for early withdrawl - 6/12/24%
+- Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
+
+<h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🍂$REAP and $SOL.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/182041823-ea6fcd55-db77-4ed5-a71f-b9d846ed9887.png">
+
+- Link: <a href="https://eu-raffle.vercel.app/raffle" target="_blank">EU Raffle</a>
+  - Payment method
+    - SOL
+    - $REAP (SPL token)
+  - Reward Type
+    - Receive NFT
+    - Whitelist (Max value is 50)
+    - Tickets (Max value is 2000)
+- Original Links:
+  - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
+  - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
+  - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
+
+<h3><u><strong><i>Apex Raffle House</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using $PREY and $SOL.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/171998195-6616ae2e-90a8-44e4-946f-65f49e25ff20.png">
+
+- Demo: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
+- Live: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
+  - Payment method
+    - $SOL, $PREY (SPL token)
+  - Reward Type
+    - Receive NFT, WL spots(max: 50), Reward Token
+- Official Links:
+  - Linktree: <a href="https://linktr.ee/ApexPredatorsSOL">Apex Predator | Linktree</a>
+  - Website: <a href="https://home.apexpredator.army">Apex Predator</a>
+  - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
