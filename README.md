@@ -65,6 +65,10 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨�
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
   - Moved to this link: <a href="https://www.yaku.ai">Yaku Hub</a>
 
+<br />
+<br />
+<br />
+
 <h3><u><strong><i>Playzelo</i></strong></u> &nbsp;(Bitcoin, Etheruem, Binance, Solana)</h3>
 <hr />
 
