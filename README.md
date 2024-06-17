@@ -1,22 +1,5 @@
 # About-Me
 
-<h3><u><strong><i>Rune Developer  (Bitcoin)
-</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/btcwhiz/About-Me/assets/69390291/63c36bad-6669-4b18-a9f3-8f28a5a5b739">
-
-Ordinal Genesis team support Ordinal Mint, Create Ordinal Collection, Ordinal Raffle, Rune Claiming Features. App support XVerse, Unisat and Leader Wallets so users can use any wallet. Especially used bitcoinjs lib for build app backend(swap ordinals, send rune tokens to multi users in one tx etc). Used Next.js for Frontend, Node.js for backend, Cosmos DB for database and Azure for deploy website. After publish Rune claiming website, start focus on Rune Recursive tech and trying to make another platform use that tech. This is a kind of company what uses cutting edge tech in bitcoin network. I am happy to share that I am a team member of this company and as a backend developer, built most of projects backend. Plz contact me anytime for ask any tech about bitcoin. Will help you as much as I know.
-
-
-- Live: <a href="https://ordinalgenesis.xyz/">Ordinal Genesis</a>
-- Github repos: 
-  - Rune Launchpad backend repo: <a href="https://github.com/btcwhiz/Send-RuneToken-Multi-Address">OrdinalGenesis-RuneLaunchpad-Backend</a>
-  - Ordinal Raffle backend repo: <a href="https://github.com/btcwhiz/ordinal-raffle-backend">OrdinalGenesis-OrindalRaffle-Backend</a>
-  - Ordinal Raffle frontend repo: <a href="https://github.com/btcwhiz/ordinal-raffle-frontend">OrdinalGenesis-OrindalRaffle-Frontend</a>
-
-<br/>
-
 <h3><u><strong><i>DexOrdi</i></strong></u> &nbsp;(AMM & DAO Based on BRC-20 and CBRC-20 Toten Standard)</h3>
 <hr />
 
