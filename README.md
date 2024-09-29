@@ -1,4 +1,4 @@
-![Screenshot_4](https://github.com/user-attachments/assets/56f52509-40e3-42f3-bad0-09ae0ff0353c)
+![Screenshot_4](https://github.com/user-attachments/assets/b9f8a4b9-1660-4be2-8217-8daea02b1479)
 # Here you can go with my past projects
 
 
