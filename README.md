@@ -2,19 +2,6 @@
 
 - As you can see here, I have built several Blockchain projects including Rune Pumpfun, Ordinal Marketplace, NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
-<h3><u><strong><i>Covault</i></strong></u> &nbsp;(Bitcoin, Multisig Wallet)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
-
-Worked as CTO, Lead Dev built multi sig wallet with my talented skill set
-
-- Required Skills: NextJs, Bitcoinjs-lib, Multisig Wallet, Runelib
-- Live: <a href="https://covault.xyz/">Covault</a>
-- Github repos:
-  - Repo: <a href="https://github.com/billtovitt/covault">Covault Code</a>
-
-<br/>
 
 <h3><u><strong><i>$DOG of bitcoin</i></strong></u> &nbsp;(Bitcoin, Ordinals)</h3>
 <hr />
@@ -26,11 +13,24 @@ Launched Collection into the Magic Eden and made our own Plushies.
 - Required Skills: NextJs, TailwindCSS, Bitcoinjs-lib, RuneLib, X integration
 - Live: <a href="https://dogofbitcoin.com/">$DOG of bitcoin</a>
 - Github repos:
-  - Repo: <a href="https://github.com/billtovitt/dog-of-bitcoin">$DOG Code</a>
+  - Repo: <a href="https://github.com/btcwhiz/dog-of-bitcoin">$DOG Code</a>
 
 <br/>
 
 
+<h3><u><strong><i>Covault</i></strong></u> &nbsp;(Bitcoin, Multisig Wallet)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
+
+Worked as CTO, Lead Dev built multi sig wallet with my talented skill set
+
+- Required Skills: NextJs, Bitcoinjs-lib, Multisig Wallet, Runelib
+- Live: <a href="https://covault.xyz/">Covault</a>
+- Github repos:
+  - Repo: <a href="https://github.com/btcwhiz/covault">Covault Code</a>
+
+<br/>
 <h3><u><strong><i>BTC Pumpfun</i></strong></u> &nbsp;(Bitcoin, Multisig Wallet)</h3>
 <hr />
 
@@ -41,7 +41,7 @@ NFT Mint Project : 15% of the mint cost is shared with NFT holders.
 - Required Skills: Bitcoinjs-lib, Runelib, Bitcoin, Socket
 - Live: <a href="http://65.21.21.179:3000/">BTC Pumpfun</a>
 - Github repos:
-  - Repo: <a href="https://github.com/billtovitt/btc-pumpfun">Pumpfun Code</a>
+  - Repo: <a href="https://github.com/btcwhiz/btc-pumpfun">Pumpfun Code</a>
 
 <br/>
 
