@@ -1,4 +1,6 @@
+![Screenshot_4](https://github.com/user-attachments/assets/56f52509-40e3-42f3-bad0-09ae0ff0353c)
 # Here you can go with my past projects
+
 
 - As you can see here, I have built several Blockchain projects including Rune Pumpfun, Ordinal Marketplace, NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
@@ -6,7 +8,7 @@
 <h3><u><strong><i>$DOG of bitcoin</i></strong></u> &nbsp;(Bitcoin, Ordinals)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/b9f8a4b9-1660-4be2-8217-8daea02b1479">
 
 Launched Collection into the Magic Eden and made our own Plushies.
 
@@ -21,7 +23,7 @@ Launched Collection into the Magic Eden and made our own Plushies.
 <h3><u><strong><i>Covault</i></strong></u> &nbsp;(Bitcoin, Multisig Wallet)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/04aadb66-9614-48ef-9fcd-37b82e09963f">
 
 Worked as CTO, Lead Dev built multi sig wallet with my talented skill set
 
@@ -34,7 +36,7 @@ Worked as CTO, Lead Dev built multi sig wallet with my talented skill set
 <h3><u><strong><i>BTC Pumpfun</i></strong></u> &nbsp;(Bitcoin, Multisig Wallet)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/64d1e3f1-565b-4c4e-a3a2-940c66443c53">
 
 NFT Mint Project : 15% of the mint cost is shared with NFT holders.
 
